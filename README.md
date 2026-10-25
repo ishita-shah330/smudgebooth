@@ -79,4 +79,4 @@ Issues and pull requests are welcome. Please keep it dependency-free.
 
 ## License
 
-[MIT](LICENSE) © 2026 YOUR NAME
+[MIT](LICENSE) © 2026 ISHITA SHAH
